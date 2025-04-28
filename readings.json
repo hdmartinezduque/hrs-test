@@ -1,0 +1,51 @@
+[
+  {
+    "patientId": "123",
+    "type": "blood_pressure",
+    "subtype": "systolic",
+    "value": 150.0,
+    "timestamp": "2025-04-26T10:00:00Z"
+  },
+  {
+    "patientId": "123",
+    "type": "blood_pressure",
+    "subtype": "diastolic",
+    "value": 95.0,
+    "timestamp": "2025-04-26T10:00:00Z"
+  },
+  {
+    "patientId": "123",
+    "type": "glucose",
+    "subtype": "fasting",
+    "value": 85.0,
+    "timestamp": "2025-04-26T10:00:00Z"
+  },
+  {
+    "patientId": "124",
+    "type": "blood_pressure",
+    "subtype": "systolic",
+    "value": 120.0,
+    "timestamp": "2025-04-26T11:00:00Z"
+  },
+  {
+    "patientId": "124",
+    "type": "glucose",
+    "subtype": "fasting",
+    "value": 105.0,
+    "timestamp": "2025-04-26T11:00:00Z"
+  },
+  {
+    "patientId": "125",
+    "type": "temperature",
+    "subtype": "oral",
+    "value": 38.0,
+    "timestamp": "2025-04-26T12:00:00Z"
+  },
+  {
+    "patientId": "125",
+    "type": "heart_rate",
+    "subtype": "resting",
+    "value": 95.0,
+    "timestamp": "2025-04-26T12:00:00Z"
+  }
+]

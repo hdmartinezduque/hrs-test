@@ -1,0 +1,5 @@
+- patientId: "123"
+  type: "blood_pressure"
+  subtype: "systolic"
+  value: 120.0
+  timestamp: "2025-04-26T10:00:00Z"

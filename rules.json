@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "type": "blood_pressure",
+      "subtype": "systolic",
+      "threshold": 140,
+      "comparison": "greater_than"
+    },
+    {
+      "id": 2,
+      "type": "blood_pressure",
+      "subtype": "diastolic",
+      "threshold": 90,
+      "comparison": "greater_than"
+    },
+    {
+      "id": 3,
+      "type": "glucose",
+      "subtype": "fasting",
+      "threshold": 100,
+      "comparison": "less_than"
+    },
+    {
+      "id": 4,
+      "type": "temperature",
+      "subtype": "oral",
+      "threshold": 37.5,
+      "comparison": "greater_than"
+    },
+    {
+      "id": 5,
+      "type": "heart_rate",
+      "subtype": "resting",
+      "threshold": 100,
+      "comparison": "less_than"
+    }
+  ]
+  
